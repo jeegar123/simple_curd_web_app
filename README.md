@@ -11,3 +11,4 @@ Features :
 Tools:
   -netbeans
   -mysql jdbc driver
+  -xampp
